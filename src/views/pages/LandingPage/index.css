@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Mabry-Pro";
+    src: local("Mabry-Pro"), url("../../../assets//Fonts/Mabry-Pro-Medium.ttf") format("truetype");
+}
+
+.local {
+    font-family: "Mabry-Pro";
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
+.reg-font{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,600&display=swap');
+
+.feature{
+    font-family: 'Montserrat', sans-serif;
+}
